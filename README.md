@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi 👋
+
+# Checkout my portfolio website at: https://scoupar.dev  :computer:
+ 
 
 <!--
 **scoupar/scoupar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
