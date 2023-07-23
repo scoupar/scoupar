@@ -1,6 +1,4 @@
 # Hi 👋
-
-# Check out my portfolio website at: https://scoupar.dev  :computer:
  
 
 <!--
